@@ -1,15 +1,3 @@
-"""
-this is the lerning algorithem i could add notes but im gowing to take out the atual nural networks 
-stuff and note that the rest is just my bodged way of mixing my getwork code with my tick tack toe code
-i belive i can make it better. if you skim throu you can see what function do by there names and edit
-any values to see what would happen
-
-it will out put a new set of wights and bias wich it will then see if better than old and repeat that
-what it is printing the amount one lost tied and the new wigths and bias
-
-date: around christmass in year 10 or easter cant exacly remember
-"""
-
 import math
 import random
 import operator
