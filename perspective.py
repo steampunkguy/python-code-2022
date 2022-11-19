@@ -1,13 +1,3 @@
-"""
-this is a very old pice of code i made at the start of year 10 this was with around 
-2-4 weeks of me lerning codeing how i learn was i learned the basics at shcool then 
-i found this website https://www.w3schools.com/python/default.asp read throu all the
-diffrent function and then decided to do this so its relay mesy and hard to read and 
-iv used all the wrong techniques but with my next project with rotational matrixes i
-learn how to make it better i dident even import math for sine tan and cosine i just
-coded there defantions in
-"""
-
 import turtle as tr
 
 tr.hideturtle()
