@@ -1,0 +1,1 @@
+some of them must be opened with an ide other wise it will run the code and immediately close its self and some of them have important comments inside

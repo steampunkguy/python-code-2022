@@ -1,0 +1,7 @@
+turtle
+numpy
+time
+math
+operator
+
+i think this is all you need
