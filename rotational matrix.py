@@ -1,6 +1,3 @@
-"""
-made 2 weeks afer perspective
-"""
 import turtle as tr
 import math
 import numpy as np
